@@ -1,1 +1,1 @@
-ajax
+bahan gambar
